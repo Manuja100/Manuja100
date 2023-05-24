@@ -13,7 +13,5 @@
 
 - 🖥️ Interested in Data Analytics  
   
-
--  😂 **margin: ;** helps with the OCD  
   
 
