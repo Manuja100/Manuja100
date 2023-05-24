@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Manuja100/Manuja100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
-Here are some ideas to get you started:
+## <div align="center">Hey, I'm Manuja 👋 </div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Undergraduate - Sri Lanka Institute of Information Technology  
+  
+
+- 🖥️ Interested in Data Analytics  
+  
+
+-  😂 **margin: ;** helps with the OCD  
+  
+
