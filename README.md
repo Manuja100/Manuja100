@@ -4,7 +4,7 @@
 - ### 🎓 Undergraduate - Sri Lanka Institute of Information Technology  
   
 
-- ### 🖥️ Interested in Data Analytics  
+- ### 🖥️ Interested in Data Engineering and Machine Learning
 
 
 <br/>
